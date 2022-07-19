@@ -1,0 +1,51 @@
+.cell{
+    color: rgb(10,120,120);
+    background-color: rgb(223,55,55);
+    border-radius: 20%;
+    /* border-color: rgb(170,55,170); */
+    height: 90px;
+    width: 90px;
+    font-size: 40px;
+    font-weight: bold;
+    border: 4px solid rgb(10,120,120);
+    cursor: grab;
+
+}
+body{
+    background-image: url("/Ex-touch-nums/download.jpg");
+}
+div{
+    text-align: center;
+}
+.diff{
+    height: 80%;
+    width: 130px;
+    border-radius: 5%;
+    padding: 5px;
+    font-size: large;
+    color:rgb(82, 19, 131)
+
+}
+.easy{
+    background-color:rgba(223, 138, 10);
+}
+.medium{
+    background-color:rgb(224, 63, 14);
+}
+.hard{
+    background-color:rgb(189, 41, 4);
+}
+
+h2{
+    text-align: center;
+}
+.diff-container{
+margin: auto;
+height: 80px;
+}
+.main-board{
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
